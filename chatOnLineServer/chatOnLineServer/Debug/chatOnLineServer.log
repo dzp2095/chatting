@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/6/7 23:25:50。
+     1>项目“C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLineServer\chatOnLineServer\chatOnLineServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\vs 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLineServer\Win32\Debug\\chatOnLineServer.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.1\5.5\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLineServer\Win32\Debug\chatOnLineServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLineServer\Win32\Debug\chatOnLineServer.lib" /MACHINE:X86 /SAFESEH Debug\chatonlineserver.obj
+         Debug\moc_chatonlineserver.obj
+         Debug\moc_serverworker.obj
+         Debug\moc_workerThread.obj
+         Debug\qrc_chatonlineserver.obj
+         Debug\main.obj
+         Debug\serverworker.obj
+         Debug\workerThread.obj
+         chatOnLineServer.vcxproj -> C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLineServer\Win32\Debug\chatOnLineServer.exe
+     1>已完成生成项目“C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLineServer\chatOnLineServer\chatOnLineServer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78

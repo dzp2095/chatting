@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/6/7 23:37:09。
+     1>项目“C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLine\chatOnLine\chatOnLine.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\vs 2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtNetwork /IC:\Qt\Qt5.5.1\5.5\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chatonline.cpp
+         chatonline.cpp
+       Link:
+         C:\vs 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLine\Win32\Debug\\chatOnLine.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.1\5.5\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLine\Win32\Debug\chatOnLine.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLine\Win32\Debug\chatOnLine.lib" /MACHINE:X86 /SAFESEH Debug\chatOnLine.res
+         Debug\chatdialog.obj
+         Debug\chatonline.obj
+         Debug\clientNetWorker.obj
+         Debug\moc_chatdialog.obj
+         Debug\moc_chatonline.obj
+         Debug\moc_clientNetWorker.obj
+         Debug\moc_loginDlg.obj
+         Debug\moc_loginthread.obj
+         Debug\qrc_chatonline.obj
+         Debug\loginDlg.obj
+         Debug\loginthread.obj
+         Debug\main.obj
+         chatOnLine.vcxproj -> C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLine\Win32\Debug\chatOnLine.exe
+     1>已完成生成项目“C:\Users\dengzhipeng\Documents\Visual Studio 2013\Projects\qt\chatOnLine\chatOnLine\chatOnLine.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.26
